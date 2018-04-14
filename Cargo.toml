@@ -1,0 +1,6 @@
+[package]
+name = "andromeda"
+version = "0.1.0"
+authors = ["Christopher Fair <cfair@ewqlovmacrndcpf01.hach.ewqg.com>"]
+
+[dependencies]
